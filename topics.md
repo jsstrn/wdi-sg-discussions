@@ -1,0 +1,96 @@
+# Covered Topics
+
+- JavaScript
+  - `console.log`
+  - Data types (strings, arrays, numbers, objects)
+  - Branching (`if`/`else`, ternary `?:`, `switch`/`case`)
+  - Iteration (`forEach`/`map`/`reduce`/`filter`/...)
+  - Functions (`call`/`apply`)
+  - Regular expressions
+  - JSON
+    - syntax
+    - `stringify`/`parse`
+  - Timers
+    - `setTimeout`/`setImmediate`
+    - `setInterval`
+    - `requestAnimationFrame`
+    - high resolution timers
+  - Asynchronous
+    - Callbacks
+    - Promises
+    - `async`/`await`
+  - ECMAScript 2015+
+    - `for ... of`
+    - `=>`
+    - `import`/`export`
+    - `Map`
+    - `Object.assign`
+  - Tooling
+    - Browserify
+      - Babelify
+      - Watchify
+    - Node.js
+      - `nodemon`/`forever`/`pm2`
+      - Semver
+      - REPL
+    - NPM
+      - Initialise (`package.json`)
+      - Dependencies
+      - Scripts
+    - Babel
+      - Presets & plugins
+      - Usage
+        - CLI
+        - Mocha
+        - Node
+- CSS
+  - Selectors
+  - Properties
+  - Units
+  - Box model (content/padding/border/margin)
+  - Flex box
+  - Positioning
+  - Fonts
+  - Colours
+- MongoDB
+  - MongoLab SaaS
+  - Local installation
+  - Mongoose ODM
+  - Node native driver
+- HTML
+  - Elements
+  - Attributes
+  - Templating
+    - Handlebars
+    - EJS
+    - Jade
+    - Haml
+- DOM
+  - searching `querySelector`/`querySelectorAll`/`NodeList`
+  - traversing (`childNodes`/`parentNode`)
+  - modifying (`appendChild`/`removeChild`, `innerHTML`/`textContent`)
+  - creating (`document.createElement`, `DocumentFragment`)
+  - CSS via JS (`style` property)
+- Networking
+  - `fetch`
+    - CRUD methods `GET`/`POST`/`PUT`/`DELETE`
+    - REST
+  - Postman
+- Frameworks
+  - Express
+    - Middleware
+    - Route handlers
+    - Router
+    - Request
+    - Response
+  - Meteor
+  - Sails
+- PaaS/SaaS
+  - Heroku
+  - Keymetrics
+  - MongoLab
+  - Travis
+  - Codeship
+  - Shields.io
+  - Gemnasium/David/Greenkeeper
+  - Apiary
