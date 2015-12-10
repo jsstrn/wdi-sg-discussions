@@ -7,7 +7,7 @@
 GA SG WDI class collaboration repo.
 
 | Code | Meaning |
-|-
+|---|---|
 | GA | General Assembly |
 | SG | Singapore |
 | WDI | Web Development Immersive |
