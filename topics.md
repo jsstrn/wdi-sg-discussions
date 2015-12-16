@@ -94,3 +94,5 @@
   - Shields.io
   - Gemnasium/David/Greenkeeper
   - Apiary
+- Single Page Apps
+  - Web Components
