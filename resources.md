@@ -16,6 +16,8 @@ If the title of your resource is not self-explanatory, add a short description a
 
 ## MOOCs
 
+- [edX](https://www.edx.org/)
+- [Coursera](https://www.coursera.org/)
 - [FutureLearn](https://www.futurelearn.com/courses)
 
 ## Videos
