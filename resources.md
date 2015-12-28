@@ -14,6 +14,10 @@ If the title of your resource is not self-explanatory, add a short description a
 - [HTTP2 Explained](http://http2-explained.haxx.se/content/en/index.html)
 - [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
 
+## MOOCs
+
+- [FutureLearn](https://www.futurelearn.com/courses)
+
 ## Videos
 
 - [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
